@@ -3,7 +3,7 @@
 Um aplicativo criado para dispositivos com o sistema android. A lista de mercado, tem como objetivo facilitar a listagem de produtos necessários para uma compra. É interessante a composição do aplicativo para que o usuário sinta a rapidez e a eficiência que o software proporciona. Vale ressaltar que este aplicativos foi inspirado no ToDo da Microsoft, contendo as funcionalidades básicas.
 
 ## Instalação
-1. Clique na aba CODE para clonar o projeto, podendo escolher dentre as opções de clonagem HTTPS, SSH ou GitHub CLI.
+Clique na aba CODE para clonar o projeto, podendo escolher dentre as opções de clonagem HTTPS, SSH ou GitHub CLI.
    
 Padrão de qualquer projeto.
 
